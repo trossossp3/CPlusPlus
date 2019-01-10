@@ -1,3 +1,4 @@
 ﻿  OPENCV.cpp
-z:\dev\c++\opencv\opencv\opencv.cpp(44): error C2064: term does not evaluate to a function taking 1 arguments
-z:\dev\c++\opencv\opencv\opencv.cpp(51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\dev\c++\opencv\opencv\opencv.cpp(64): error C2065: 'window_name': undeclared identifier
+c:\dev\c++\opencv\opencv\opencv.cpp(66): error C2065: 'window_name': undeclared identifier
+c:\dev\c++\opencv\opencv\opencv.cpp(66): error C2065: 'img_rgb': undeclared identifier
